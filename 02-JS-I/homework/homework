@@ -1,0 +1,6 @@
+homework
+variables: guardan informacion en un lugar y permiten recuperarla en otro momento.
+Strings: palabras o hilos de caracteres, empiezan y terminan con ''.
+Funciones: sirve para agrupar codigos, guardarlos y luego utilizarlos.  function detfuncion (Argumento= variable que declaramos que va a tomar un valor) {codigo} Return: es lo que la funcion te devuelve 
+Declaraciones: if es la condicion que le impongo para determinado tipo de respuesta. si esta condicion se cumple va a ser un tipo de respuesta y sino sera otro.
+Valores booleanos: son variables que pueden tomar 2 valores, verdadero o falso.  
