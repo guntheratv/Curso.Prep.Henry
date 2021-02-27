@@ -1,0 +1,3 @@
+homeworkk
+for: bucle que sirve para repetir bloques de codigos muchas veces. dentro del parentesis se especifica el valor minimo al valor maximo de la variable y los intervalos y entre las llaves el codigo a ejecutar 
+operadores logicos: son como operadores matematicos pero para datos booleanos. En el caso de AND && es verdadero solo si los dos son verdaderos , en OR || es falso solo si los dos son falsos. el ! se utiliza para negar o por ejemplo decir que es distinto !=
