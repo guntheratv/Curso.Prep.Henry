@@ -1,0 +1,1 @@
+Array : arreglo, conjunto de variables, ya sea funciones, strings etc para acceder se necesita la posicion o indice. Pueden ser unidimesionales o multidimesionales. Se definen con [] 
