@@ -1,0 +1,5 @@
+Objetos: Coleccion de propiedades, asoaciaciones entre un nombre (clave) y valor. Contienen mucha informacion de una sola cosa y se indican con {}.
+Propiedades: asociacion entre un nombre (clave) y valor. Key value. se separan con ","
+Métodos: Son las funciones dentro de un objeto 
+Bucle `for…in`: para recorrer cada una de las propiedades de un objeto 
+Notación de puntos vs notación de corchetes: la ventaja del usar "." es que es facil de escribir pero no puedo poner por ejemplo una variable , por esto para recorrer un objeto e intercalar con variables se utiliza [].
