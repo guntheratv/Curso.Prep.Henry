@@ -1,0 +1,3 @@
+* `prototype`: Todos los objetos de java Script tiene referencia aotro objeto que es llamado Prototype. Se genera una cadena de prototipos 
+
+* _Constructors_ (de Clases):Funcion que permite contruir objetos (Fabrica de objetos) 
