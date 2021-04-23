@@ -1,0 +1,3 @@
+Funciones CallBAck : Se lo nombra cuando una funcion es argumento de otra funcion. Se pueden utilizar distintas formas de empleo segun el resultado que se busque. Por ejemplo en arrejlos se utiliza .foreach que ejecuta la funcion una vez por cada elemento del arreglo y no retorna nada. Utiliza argumentos (elemento , indice)
+Otra es .Map que crea un nuevo arreglo con los resultados una vez aplicada la funcion. Utiliza argumentos (elemento , indice). RETORNA 
+.reduce : Ejecuta la funcion sobre cada elemento del array y devuelve un unico valor puee tener hasta 4 argumento pero 2 de ellos son necesarios acumulador y elemento. 
